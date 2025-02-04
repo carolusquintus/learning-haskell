@@ -13,4 +13,6 @@ factorial n = n * factorial(n - 1)
 main = do
     putStrLn "Factorial of your number is: "
     print(factorial(5))
+    putStrLn "Factorial of 0 is:"
+    print(factorial(0))
 
