@@ -1,0 +1,2 @@
+Haskell is Great!
+I love Haskell, Rust, Python, Go, and Java for ever!
